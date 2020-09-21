@@ -1,0 +1,21 @@
+﻿  Button.cpp
+  Entity.cpp
+  Game.cpp
+c:\users\rafał\desktop\c++ - studia\project rpg\project rpg\game.cpp(96): warning C4101: "event": lokalna zmienna, do której nie istnieje odwołanie
+  GameState.cpp
+  main.cpp
+  MainMenuState.cpp
+c:\users\rafał\desktop\c++ - studia\project rpg\project rpg\mainmenustate.cpp(48): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  State.cpp
+  Trwa generowanie kodu
+  All 640 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Project RPG.vcxproj -> C:\Users\Rafał\Desktop\C++ - Studia\Project RPG\Release\Project RPG.exe

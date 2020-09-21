@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\rafał\desktop\c++ - studia\project rpg\project rpg\game.h(8): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+  main.cpp
+c:\users\rafał\desktop\c++ - studia\project rpg\project rpg\game.h(8): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+  Generowanie kodu...

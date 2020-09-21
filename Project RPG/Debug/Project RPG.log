@@ -1,0 +1,12 @@
+﻿  AnimationComponent.cpp
+  EditorState.cpp
+  Entity.cpp
+  Game.cpp
+c:\users\rafał\desktop\c++ - studia\project rpg\project rpg\game.cpp(115): warning C4101: "event": lokalna zmienna, do której nie istnieje odwołanie
+  GameState.cpp
+  MainMenuState.cpp
+  Player.cpp
+  State.cpp
+  main.cpp
+  Generowanie kodu...
+  Project RPG.vcxproj -> C:\Users\Rafał\Desktop\C++ - Studia\Project RPG\Debug\Project RPG.exe
